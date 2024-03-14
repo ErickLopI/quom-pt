@@ -2,6 +2,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+# Download proyect:
+
+* 1.- Descargar el codigo en tu local "git clone https://github.com/ErickLopI/quom-pt.git"
+* 2.- Posteriormente ir a tu carpeta donde descargaste el poryecto y abrir con tu IDE
+* 3.- Abrir una terminal en la ruta del proyecto y realizar un "npm install"
+* 4.- una vez terminado de descargar los paquetes ejecutar el siguiente comando "npm run dev"
+* 5.- si todo fue correcto el proyecto estara funcionando en http://localhost:3000
+
+
 First, run the development server:
 
 ```bash
