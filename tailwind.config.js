@@ -14,10 +14,10 @@ module.exports = {
       },
     },
     screens: {
-      'sm': '400px',
+      'sm': '350px',
       // => @media (min-width: 640px) { ... }
 
-      'md': '720px',
+      'md': '650px',
       // => @media (min-width: 768px) { ... }
 
       'lg': '1024px',
